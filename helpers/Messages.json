@@ -1,0 +1,6 @@
+{
+	"messagesentfailed": "Failed to send the forgot password",
+	"noemailexist": "Provided EmailID does not exist!",
+	"mailsuccess": "Mail has been sent successfully!",
+	"confirmsubject": "Confirmation from Engazewell Well"
+}
